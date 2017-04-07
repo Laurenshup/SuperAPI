@@ -1,0 +1,5 @@
+name: SuperAPI
+author: Laurenshup
+version: 1.2.0
+description: A API for all things
+main: com.laurenshup.superapi.Core
